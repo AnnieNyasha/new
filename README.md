@@ -10,5 +10,5 @@ Optimisation graphs and index classification performance metrics
 
 
 Appendix-D 
-GEE and Google Collab code
+Google Collab code
 
